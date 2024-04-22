@@ -1,0 +1,11 @@
+.container{
+    position: relative;
+    width:700px;
+    top:100px;
+    
+    
+}
+.form-control:focus{
+    box-shadow: 0px 1px 1px lemonchiffon inset,0px 0px 8px lightblue;
+}
+
